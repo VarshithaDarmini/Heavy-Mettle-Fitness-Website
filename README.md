@@ -5,54 +5,39 @@ A responsive fitness and gym website designed to help users explore workout prog
 
 ## Overview
 
-Heavy Mettle is a responsive fitness and gym website developed to provide users with an engaging digital platform for exploring fitness services, workout programs, gym facilities, and membership options. The website focuses on delivering a modern user experience through intuitive navigation, visually appealing design, and seamless accessibility across multiple devices.
+Heavy Mettle is a responsive fitness and gym website developed using HTML, CSS, and JavaScript. The platform is designed to provide users with a seamless digital fitness experience by offering information about workout programs, gym facilities, trainers, and membership plans.
+
+The website focuses on user-friendly navigation, modern design principles, and responsive layouts to ensure accessibility across desktops, tablets, and mobile devices. It serves as a centralized platform where fitness enthusiasts can explore services, learn about training programs, and register for memberships conveniently.
 
 ## Features
 
-* Responsive and mobile-friendly interface
-* Modern and interactive homepage
-* About Us section highlighting the gym's vision and mission
-* Fitness classes and workout program information
-* Gym facilities and equipment showcase
-* Trainer and fitness guidance section
+* Responsive and mobile-friendly design
+* Interactive homepage with fitness content
+* About Us section introducing the gym and its mission
+* Workout classes and training program details
+* Trainer profiles and fitness guidance
+* Gym facilities and equipment information
 * Membership registration form
-* Contact and support page
-* Smooth navigation and user-friendly layout
+* Contact and support section
+* Clean and intuitive user interface
 
 ## Technologies Used
 
-* HTM
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 
 ## Project Structure
 
+```text
 ├── index.html
 ├── about.html
 ├── classes.html
-├── facilities.html
 ├── trainers.html
+├── facilities.html
 ├── contact.html
 ├── registration.html
 ├── styles.css
 └── script.js
+```
 
-## Key Highlights
-
-* Fully responsive design for desktop, tablet, and mobile devices
-* Clean and modern user interface
-* Structured navigation for enhanced user experience
-* Interactive membership registration functionality
-* Fitness-focused content presentation
-* Optimized layout for accessibility and usability
-
-## Learning Outcomes
-
-Through this project, I gained practical experience in:
-
-* Frontend Web Development
-* Responsive Web Design
-* User Interface (UI) Design
-* User Experience (UX) Principles
-* Form Validation and User Interaction using JavaScript
-* Website Layout and Styling with CSS
