@@ -44,7 +44,6 @@ Heavy Mettle is a responsive fitness and gym website designed to provide users w
 
 ├── script.js
 
-└── assets/
 
 ## Key Highlights
 
