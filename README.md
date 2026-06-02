@@ -20,8 +20,8 @@ Heavy Mettle is a responsive fitness and gym website designed to provide users w
 
 ## Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 
 ## Project Structure
