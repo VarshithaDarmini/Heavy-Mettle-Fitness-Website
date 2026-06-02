@@ -23,8 +23,8 @@ The website focuses on user-friendly navigation, modern design principles, and r
 
 ## Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 
 ## Project Structure
